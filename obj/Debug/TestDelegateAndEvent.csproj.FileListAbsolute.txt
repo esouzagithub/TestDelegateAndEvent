@@ -1,0 +1,6 @@
+C:\GitHub\TestDelegateAndEvent\bin\Debug\appDelegateAndEvent.exe.config
+C:\GitHub\TestDelegateAndEvent\obj\Debug\appDelegateAndEvent.exe
+C:\GitHub\TestDelegateAndEvent\obj\Debug\appDelegateAndEvent.pdb
+C:\GitHub\TestDelegateAndEvent\bin\Debug\appDelegateAndEvent.exe
+C:\GitHub\TestDelegateAndEvent\bin\Debug\appDelegateAndEvent.pdb
+C:\GitHub\TestDelegateAndEvent\obj\Debug\TestDelegateAndEvent.csprojResolveAssemblyReference.cache
